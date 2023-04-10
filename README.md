@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wiwek09
-- 👀 I’m interested in Digital SOlutions
+- 👀 I’m interested in Digital Solutions
 - 🌱 I’m currently learning React and Node Js
 
 
