@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wiwek09
-- 👀 I’m interested in Back-End Services and Data Analysis
+- 👀 I’m interested in Digital SOlutions
 - 🌱 I’m currently learning React and Node Js
 
 
