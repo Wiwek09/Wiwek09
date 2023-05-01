@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wiwek09
 - 👀 I’m interested in Digital Solutions
-- 🌱 I’m currently learning React and Node Js
+- 🌱 I’m currently learning Node Js and cloud services
 
 
 <!---
